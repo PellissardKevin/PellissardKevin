@@ -36,8 +36,8 @@ Completed in December 2022, this project involves [briefly describe the projectâ
 Feel free to connect with me for questions, feedback, or collaborations:
 
 - **Email**: [kevin.pellissard@gmail.com](mailto:kevin.pellissard@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kevin-pellissard/)
-- **Twitter**: [@your_twitter_handle](https://x.com/MangateKevin)
+- **LinkedIn**: [Kevin Pellissard](https://www.linkedin.com/in/kevin-pellissard/)
+- **Twitter**: [@MangateKevin](https://x.com/MangateKevin)
 
 Thank you for visiting my GitHub profile!
 
