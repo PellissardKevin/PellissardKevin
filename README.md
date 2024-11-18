@@ -64,7 +64,7 @@ Feel free to connect with me for questions, feedback, or collaborations:
 
 - **Email**: [kevin.pellissard@gmail.com](mailto:kevin.pellissard@gmail.com)
 - **LinkedIn**: [Kevin Pellissard](https://www.linkedin.com/in/kevin-pellissard/)
-- **Twitter**: [@MangateKevin](https://x.com/MangateKevin)
+
 
 Thank you for visiting my GitHub profile!
 
